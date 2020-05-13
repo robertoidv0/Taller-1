@@ -9,7 +9,7 @@ int factorial_rec(int n){
 		}
 	else{
 		return(n*factorial_rec(n-1));
-	}
+	}//algo serio
 }
 
 int imprimir(int resultado[],int n){
